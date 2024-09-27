@@ -4,7 +4,7 @@ The DNS TAPIR project (www.dnstapir.se) aims to create Open Source software for 
 preserving privacy, and forward data to a central core that aggregates the query statistics in near realtime and suggest
 actions based on this back to the edge where the resolver operates.
 
-The software will be released during 2024 and consists of two major parts:
+The software consists of two major parts:
 
 - DNS TAPIR Edge – A service that runs close to a DNS resolver that aggregates logs and
   forwards data to the cloud service. Installed in service provider’s networks and similar places.
